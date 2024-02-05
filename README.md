@@ -1,4 +1,4 @@
-# dannycollan.github.io
+# dannycollan-portfolio
 
 Results-driven Senior Software Developer base in Toronto Canada with over 5 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
 
@@ -7,7 +7,7 @@ I pride myself on my ability to translate project requirements into visually app
 Click the link below to open my portfolio.
 <https://dannycollan.github.io/>
 
-![preview](https://dannycollan.github.io/assets/images/preview.png)
+![preview](https://dannycollan-portfolio/assets/images/preview.png)
 
 
 ## Development server
