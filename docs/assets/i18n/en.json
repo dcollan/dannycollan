@@ -1,0 +1,256 @@
+{
+	"Header.Item1": "About me",
+	"Header.Item2": "Experience",
+	"Header.Item3": "Work",
+	"Header.Item4": "Testimonial",
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "A3.pdf",
+	"Banner.Pretitle": "Hello! My name is",
+	"Banner.Description": "I'm a full stack developer with <span class='underline'>5 years of project experience</span>, specializing in developing systems, interfaces, bots, and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About me",
+	"AboutMe.Paragraphs": [
+		"Hey there, I'm Danny Collan. I hold a Bachelor's Degree in Computer Science, the completion of a full-stack coding bootcamp, and currently exploring the world of Web Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration.",
+		"On a typical day, you'll find me working hand-in-hand on API integrations, turning designs into actual, clickable things, and resolving bugs. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles as well.",
+		"Some of the technologies that I have trained and worked on include (but are not limited to):"
+	],
+	"AboutMe.conclude": [
+		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
+	],
+	"FeatureProjects.Title": "Some Things I've Built",
+	"FeatureProjects.Label": "Featured Project",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "JoyFindR",
+			"Description": "RESTful API wep app that acts as a game library storage using two different APIs: https://rawg.io/apidocs and https://developers.giphy.com/. Given that a user enters what games they wish to search, the application will also return memes based on the output of the game description using both APIs.",
+			"imgs": [
+				"assets/images/visa-card/disney1.png",
+				"assets/images/visa-card/disney2.png",
+				"assets/images/visa-card/disney3.png",
+				"assets/images/visa-card/disney4.png",
+				"assets/images/visa-card/disney5.png",
+				"assets/images/visa-card/disney6.png"
+			],
+			"demoLink": "https://disneyworld.disney.go.com/visa-card/",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3",
+				"LESS",
+				"Angular",
+				"AngularJS",
+				"RxJS",
+				"NodeJS",
+				"Jenkins",
+				"AWS",
+				"Git",
+				"Jira",
+				"Figma",
+				"Ultron"
+			]
+		},
+		{
+			"Title": "Social Goals Tracker",
+			"Description": "Web app that allows for users to create account, log in and post goals, with options to delete or update their posts at any time.",
+			"imgs": [
+				"assets/images/corebridge/corebridge1.png",
+				"assets/images/corebridge/corebridge2.png",
+				"assets/images/corebridge/corebridge3.png",
+				"assets/images/corebridge/corebridge4.png",
+				"assets/images/corebridge/corebridge5.png",
+				"assets/images/corebridge/corebridge6.png"
+			],
+			"demoLink": "https://social-goals-tracker-73d7fdc5c8eb.herokuapp.com/",
+			
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3",
+				"LESS",
+				"Angular",
+				"Azure",
+				"C#",
+				".NET",
+				"Entity Framework",
+				"Bootstrap",
+				"PrimeNG",
+				"Git",
+				"Jira",
+				"Bitbucket",
+				"Zeplin",
+				"Figma"
+			]
+		},
+		{
+			"Title": " Kodaris Supply Chain Platform",
+			"Description": "The Supply Chain Platform offers a robust set of features designed to streamline and optimize supply chain operations for both end-users and administrators. Users can easily shop for supplies, track their orders in real-time, and access valuable content through the integrated CMS. On the other hand, administrators benefit from a comprehensive dashboard that provides real-time analytics, stock inventory management, and user activity tracking. With functionalities ranging from demand forecasting and vendor management to reporting and analytics, the platform serves as a one-stop solution for businesses looking to improve their supply chain efficiency and customer satisfaction.",
+			"imgs": [
+				"assets/images/kodaris/kodaris1.png",
+				"assets/images/kodaris/kodaris2.png",
+				"assets/images/kodaris/kodaris3.png",
+				"assets/images/kodaris/kodaris4.png"
+			],
+			"demoLink": "https://www.kodaris.com/",
+			"Technologies": [
+				"HTML",
+				"CSS",
+				"LESS",
+				"Angular",
+				"Angular Material",
+				"Bootstrap",
+				"Java",
+				"Git",
+				"Bitbucket"
+			]
+		},
+		{
+			"Title": "Lingotek Language Translation System",
+			"Description": "The Document Translation and Review Application serves as a comprehensive platform for both automated and customized translation services. Users can upload their documents and choose between the platform's advanced auto-translate feature or opt for custom translation by assigned linguists. These linguists then proceed through various stages such as 'Translate,' 'Review,' and 'Custom,' and their work is subjected to peer voting and review to ensure quality and accuracy. Additionally, the application offers an automated review feature for contracts and deals in multiple languages, ensuring that vital contextual elements are neither omitted nor lost in translation. This multi-faceted approach makes the platform a robust solution for individuals and businesses with diverse translation and review needs.",
+			"imgs": [
+				"assets/images/lingotek/lingotek1.png",
+				"assets/images/lingotek/lingotek2.png",
+				"assets/images/lingotek/lingotek3.png",
+				"assets/images/lingotek/lingotek4.png",
+				"assets/images/lingotek/lingotek5.png",
+				"assets/images/lingotek/lingotek6.jpeg"
+			],
+			"demoLink": "https://lingotek.com/",
+			"Technologies": [
+				"CoffeeScript",
+				"AngularJS",
+				"JQuery",
+				"Jade/Pug",
+				"Stylus",
+				"Angular Material",
+				"Webpack",
+				"Git",
+				"Bitbucket",
+				"JIRA",
+				"Docker",
+				"Java",
+				"NodeJS"
+			]
+		}
+	],
+	"OtherProjects.Title": "Other Noteworthy Applications",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Horiseon",
+			"Description": "Application based on removing repeated lines and adding necessary elements in ways that the website will still appear the same.",
+			"ghLink": "https://github.com/dcollan/horiseon-refactor-homework",
+			"demoLink": "https://dcollan.github.io/-refactor-homework/",
+			"Technologies": ["HTML", "CSS"]
+		},
+		{
+			"Title": "Excellent Password Generator",
+			"Description": "Webpage that allows for user to create a new randomly generated password to have shown on screen. Upon clicking 'Generate Password', the user will be provided with a prompt indicating how long their password will be, ranging from 8 to 128 (inclusively). After entering, the user will then be asked if any lowercase, uppercase, numbers, or special characters will be included in the password.",
+			"ghLink": "https://github.com/dcollan/excellent-password-generator",
+			"demoLink": "https://dcollan.github.io/excellent-password-generator/",
+			"Technologies": ["HTML", "CSS", "JavaScript"]
+		},
+		{
+			"Title": "Work Day Scheduler",
+			"Description": "Work schedule web app that allows so that, once the user clicks save after entering in text to a textfield (whether it is before, in between, or after 9am-5pm), the entered text will yet remain after refreshing the page. There will be different timeblocks for past, present, and future, and while this is all done using Day.js, the current date will also be displayed at the top of the page.",
+			"ghLink": "https://github.com/dcollan/work-day-scheduler",
+			"demoLink": "https://dcollan.github.io/work-day-scheduler/",
+			"Technologies": ["HTML", "CSS", "jQuery", "Day.js"]
+		},
+		{
+			"Title": "Fantastic Weather App",
+			"Description": "Weather website that returns the current weather for a specific entered city once the user clicks submit on a form field. Upon submit, the page will also return the predicted forecast for the next five days, where all of the searches the user has done will be displayed onscreen based on the local storage.",
+			"ghLink": "https://github.com/dcollan/fantastic-weather-app",
+			"demoLink": "https://dcollan.github.io/fantastic-weather-app/",
+			"Technologies": ["HTML", "CSS", "jQuery", "AJAX", "APIs"]
+		},
+		{
+			"Title": "Quiz Biz",
+			"Description":  "Quiz game based on a timer initiating as soon as the user clicks start. Once the user begins the quiz, the timer will countdown until zero, and there will be a 20 second deduction in seconds if the user answers a question incorrectly. Once the user has successfully answered all questions or the timer hits 0, the results page will display, where this will be saved to local storage.",
+			"ghLink": "https://github.com/dcollan/quiz-biz",
+			"demoLink": "https://dcollan.github.io/quiz-biz/",
+			"Technologies": ["HTML", "CSS", "JavaScript"]
+		},
+		{
+			"Title": "Express Note Taker",
+			"Description":  "Note-taking application that prompts user to begin by clicking on a button regarding whether to create a new note. Once the button is clicked, a text field will be provided, prompting the user to enter in a note title with a note description. There will be a save button provided, in which once the user clicks 'Save', the note will be saved and stored. User is also able to delete notes, if needed.",
+			"ghLink": "https://github.com/dcollan/express-note-taker",
+			"demoLink": "https://express-note-taker3-38445df5a0b6.herokuapp.com/",
+			"Technologies": ["JavaScript", "Heroku", "Node.js", "Express.js"]
+		},
+		{
+			"Title": "Unique SQL Employee Tracker",
+			"Description":  "Employee tracker terminal app that uses mysql2 and inquirer. Provided with a selection of options to choose from, the user has the choice to view a list of employees, view a list of roles, view a list of departments, add new employees, add new departments, add new roles, or simply update existing employee roles, where they will also have the option to exit the application.",
+			"ghLink": "https://github.com/dcollan/unique-sql-employee-tracker",
+			"demoLink": "https://www.youtube.com/watch?v=9AJjRyGpiNw",
+			"Technologies": ["JavaScript", "MySQL", "Node.js", "Inquirer"]
+		},
+		{
+			"Title": "Groovy README Generator",
+			"Description":  "README.md generator terminal app that allows so that the user will be first provided with a series of prompts to answer, where all input data will then be stored into a new README.md file.",
+			"ghLink": "https://github.com/dcollan/groovy-readme-generator",
+			"demoLink": "https://www.youtube.com/watch?v=BGW5I8wH-Gg",
+			"Technologies": ["JavaScript", "Node.js", "Inquirer"]
+		},
+		{
+			"Title": "Super SVG Generator",
+			"Description":  "SVG generator terminal app that uses the Jest and Inquirer. Application is based on testing and generating a new SVG file that renders in the shape of a square, circle, or triangle based on the user's input. The user will also be prompted to enter at most 3 text characters to be used inside of the shape. Once the user finishes all prompts, the new SVG file will then be generated.",
+			"ghLink": "https://github.com/dcollan/super-svg-generator",
+			"demoLink": "https://www.youtube.com/watch?v=hcGHbK2LqGY",
+			"Technologies": ["JavaScript", "Node.js", "Inquirer", "Jest"]
+		},
+		{
+			"Title": "Funky ORM App",
+			"Description":  "Ecommerce CRUD app that will use Postman/Insomnia. In localhost:3001, the application will execute GET, POST, PUT, or DELETE commands on the database's queries based on the user's requests.",
+			"ghLink": "https://github.com/dcollan/funky-orm-app",
+			"demoLink": "https://www.youtube.com/watch?v=uBGy4H8eJ5Y",
+			"Technologies": ["JavaScript", "Dotenv", "Express.js", "MySQL", "Sequelize", "Postman"]
+		},
+		{
+			"Title": "True Tech Blog",
+			"Description":  "Fully-functional, responsive web app that allows for users to register a new account, and be able to login, where their information is stored inside a database. Once they have either created a new account or successfully logged in, they will be granted the option to be able to create a new post that can be shared in a global landing page.",
+			"ghLink": "https://github.com/dcollan/true-tech-blog",
+			"demoLink": "https://blooming-peak-29118-29e0be2b30b7.herokuapp.com/",
+			"Technologies": ["HBS", "JavaScript", "Node.js", "Bcrypt", "Sequelize", "Express.js", "MySQL"]
+		},
+		{
+			"Title": "NoSQL Social Network API",
+			"Description":  "NoSQL application that performs CRUD operations using MongoDB. Here, Postman/Insomnia will be used to successfully work with 'user' and 'thought' schemas. When running, GET, POST, PUT, and DELETE operations can be executed by the user as long as they are inside of Postman/Insomnia using 'localhost:3001/'. In the process of deleting a user, their associated thoughts will also be deleted.",
+			"ghLink": "https://github.com/dcollan/nosql-social-network-api",
+			"demoLink": "https://www.youtube.com/watch?v=hpfKxUrX6IU",
+			"Technologies": ["JavaScript", "Node.js", "Express.js", "MongoDB"]
+		},
+		{
+			"Title": "Fabulous PWA Text Editor",
+			"Description":  "Progressive web application that successfully renders a text editor the user could open on localhost:3000. The basis of the application will use webpack plugins, including IndexedDB, so that it may be able to store the saved information the user has entered for referring to for later use, even when offline.",
+			"ghLink": "https://github.com/dcollan/fabulous-pwa-text-editor",
+			"demoLink": "https://fabulous-pwa-text-editor.onrender.com/",
+			"Technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "Babel", "Insomnia"]
+		}
+	],
+	"Contact.Pretitle": "What’s Next",
+	"Contact.Title": "Get in touch!",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+	"Contact.Btn": "Say Hello",
+	"Testimonial.Title": "My clients' impressions of me",
+	"Testimonial.Items": [
+		{
+			"Comment": "I just wanted to give you a personal <span class='underline'>thank you for the years of service and dedication to CoDev</span>.  I understand that you are leaving to pursue an educational opportunity, and while I am <span class='underline'>sad to see you go</span>, I respect your effort to enhance your skills. I do sincerely hope that you consider returning to CoDev when your educational opportunities allow it, and I hope you stay in touch with the team locally, as well with me. If there is anything I can do to help you out, let me know.",
+			"Name": "Tony Morrison",
+			"Position": "CEO",
+			"Company": "CoDev",
+			"img": "assets/images/testimonial/tony-morrison.jpeg"
+		},
+		{
+			"Comment": "Florece is a <span class='underline'>driven self-starter</span> whom I have relied on to <span class='underline'>lead the front-end development effort for her team</span>. For the past several years, she has been diving into our challenging problems and finding ways to solve them, <span class='underline'>always putting in the time necessary to get to the right solutions</span>. Specifically, she has <span class='underline'>built innovative</span> tools to help our users translate content between languages, which brings challenges that require understanding internationalization and localization best practices, especially as they relate to web applications. She has <span class='underline'>never shied away from learning new technologies and frameworks</span>, and I am confident she will help push any development effort across the finish line. <span class='underline'>I give her my unqualified recommendation</span>!",
+			"Name": "Robert Bailey",
+			"Position": "Director of Software Engineering",
+			"Company": "Lingotek",
+			"img": "assets/images/testimonial/robert-bailey.jpeg"
+		},
+		{
+			"Comment": "5/5 stars. She does not hesitate to call meetings and ask questions essential to move the team forward. She <span class='underline'>does not waste any time</span> to call the attention of her teammates to make sure everyone is on board. More often than not we find <span class='underline'>her team’s Jira board running low on tickets</span>. Shows <span class='underline'>great leadership</span> for Forza. Available for pairing and code reviews. Has a great understanding of team expectations, objectives, and output. Checks in with PM about team needs, such as additional work, and issues, such as team frictions and/or morale issues.",
+			"Name": "Tori Blount",
+			"Position": "Project Manager",
+			"Company": "CoreBridge",
+			"img": "assets/images/testimonial/tori-blount.png"
+		}
+	]
+}
