@@ -1,4 +1,4 @@
-(self["webpackChunkfloreceann_portfolio"] = self["webpackChunkfloreceann_portfolio"] || []).push([["vendor"],{
+(self["webpackChunkdcollan_portfolio"] = self["webpackChunkdcollan_portfolio"] || []).push([["vendor"],{
 
 /***/ 3191:
 /*!***************************************************************************************!*\

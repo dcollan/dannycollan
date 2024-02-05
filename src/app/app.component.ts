@@ -9,7 +9,7 @@ import { LanguageService } from "src/app/services/language/language.service";
 	styleUrls: ["./app.component.scss"],
 })
 export class AppComponent implements OnInit {
-	title = "floreceann-portfolio";
+	title = "dcollan-portfolio";
 
 	constructor(
 		private titleService: Title,

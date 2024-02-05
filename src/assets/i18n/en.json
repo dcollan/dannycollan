@@ -239,29 +239,5 @@
 	"Contact.Pretitle": "What’s Next",
 	"Contact.Title": "Get in touch!",
 	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-	"Contact.Btn": "Say Hello",
-	"Testimonial.Title": "My clients' impressions of me",
-	"Testimonial.Items": [
-		{
-			"Comment": "I just wanted to give you a personal <span class='underline'>thank you for the years of service and dedication to CoDev</span>.  I understand that you are leaving to pursue an educational opportunity, and while I am <span class='underline'>sad to see you go</span>, I respect your effort to enhance your skills. I do sincerely hope that you consider returning to CoDev when your educational opportunities allow it, and I hope you stay in touch with the team locally, as well with me. If there is anything I can do to help you out, let me know.",
-			"Name": "Tony Morrison",
-			"Position": "CEO",
-			"Company": "CoDev",
-			"img": "assets/images/testimonial/tony-morrison.jpeg"
-		},
-		{
-			"Comment": "Florece is a <span class='underline'>driven self-starter</span> whom I have relied on to <span class='underline'>lead the front-end development effort for her team</span>. For the past several years, she has been diving into our challenging problems and finding ways to solve them, <span class='underline'>always putting in the time necessary to get to the right solutions</span>. Specifically, she has <span class='underline'>built innovative</span> tools to help our users translate content between languages, which brings challenges that require understanding internationalization and localization best practices, especially as they relate to web applications. She has <span class='underline'>never shied away from learning new technologies and frameworks</span>, and I am confident she will help push any development effort across the finish line. <span class='underline'>I give her my unqualified recommendation</span>!",
-			"Name": "Robert Bailey",
-			"Position": "Director of Software Engineering",
-			"Company": "Lingotek",
-			"img": "assets/images/testimonial/robert-bailey.jpeg"
-		},
-		{
-			"Comment": "5/5 stars. She does not hesitate to call meetings and ask questions essential to move the team forward. She <span class='underline'>does not waste any time</span> to call the attention of her teammates to make sure everyone is on board. More often than not we find <span class='underline'>her team’s Jira board running low on tickets</span>. Shows <span class='underline'>great leadership</span> for Forza. Available for pairing and code reviews. Has a great understanding of team expectations, objectives, and output. Checks in with PM about team needs, such as additional work, and issues, such as team frictions and/or morale issues.",
-			"Name": "Tori Blount",
-			"Position": "Project Manager",
-			"Company": "CoreBridge",
-			"img": "assets/images/testimonial/tori-blount.png"
-		}
-	]
+	"Contact.Btn": "Say Hello"
 }
