@@ -7,7 +7,7 @@ I pride myself on my ability to translate project requirements into visually app
 Click the link below to open my portfolio.
 <https://annrobles.github.io/>
 
-![preview](https://dannycollan/src/assets/images/preview.png)
+![preview](https://github.com/dcollan/dannycollan/blob/main/src/assets/images/preview.png)
 
 
 ## Development server
