@@ -1,11 +1,11 @@
-# annrobles.github.io
+# dannycollan
 
-Results-driven Senior Software Developer base in Toronto Canada with over 5 years of professional experience in web and software development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
+Results-driven full stack developer based in California with 5 years of project experience in web development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
 
 I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.
 
 Click the link below to open my portfolio.
-<https://annrobles.github.io/>
+<http://dannycollan.com/>
 
 ![preview](https://github.com/dcollan/dannycollan/blob/main/src/assets/images/preview.png)
 
