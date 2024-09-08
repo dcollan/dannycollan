@@ -1,6 +1,6 @@
 # dannycollan
 
-Results-driven full stack developer based in California with 5 years of project experience in web development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
+Results-driven software engineer based in California with plus 5 years of project experience in web development. I have worked on various large-scale projects that prioritized responsive design, performance optimization, and cross-functional collaboration.
 
 I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.
 
