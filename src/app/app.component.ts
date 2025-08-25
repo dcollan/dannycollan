@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
 		this.languageService.initLanguage();
 
 		this.titleService.setTitle(
-			"Danny Collan | MERN Stack Developer | MEAN Stack Developer | Software Engineer"
+			"Danny Collan | Stack Developer | MEAN Stack Developer | Software Engineer"
 		);
 		this.metaService.addTags([
 			{
