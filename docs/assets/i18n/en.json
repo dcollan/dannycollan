@@ -7,7 +7,7 @@
 	"Header.cvBtn": "Resume",
 	"Header.cvName": "A3.pdf",
 	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I’m an <span class='underline'>AI engineer</span> with a strong passion for <span class='underline'>artificial intelligence, machine learning, and data-driven</span>problem solving.</span> My projects explore how AI can be applied to real-world challenges—ranging from building intelligent models to developing end-to-end solutions that combine theory with practical implementation.",
+	"Banner.Description": "I’m an <span class='underline'>AI engineer</span> with a strong passion for <span class='underline'>artificial intelligence, machine learning, and data-driven</span><span class='underline'>problem solving.</span> My projects explore how AI can be applied to real-world challenges—ranging from building intelligent models to developing end-to-end solutions that combine theory with practical implementation.",
 	"Banner.ActionBtn": "Get in touch",
 	"AboutMe.Title": "About me",
 	"AboutMe.Paragraphs": [
