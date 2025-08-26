@@ -7,12 +7,11 @@
 	"Header.cvBtn": "Resume",
 	"Header.cvName": "A3.pdf",
 	"Banner.Pretitle": "Hello! My name is",
-	"Banner.Description": "I'm a junior engineer with <span class='underline'>plus 5 years of project experience</span>, specializing in developing systems, interfaces, bots, and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.",
+	"Banner.Description": "I’m an <span class='underline'>AI engineer</span> with a strong passion for <span class='underline'>artificial intelligence, machine learning, and data-driven problem solving.</span> My projects explore how AI can be applied to real-world challenges—ranging from building intelligent models to developing end-to-end solutions that combine theory with practical implementation.",
 	"Banner.ActionBtn": "Get in touch",
 	"AboutMe.Title": "About me",
 	"AboutMe.Paragraphs": [
-		"Hey there, I'm Danny Collan! I hold a Bachelor's Degree in Computer Science, a full-stack coding bootcamp certificate, and am also certified as an AWS Certified DevOps Engineer and as a Certified Control Systems Technician. Currently, I am exploring all possibilities in the world of technology as a software engineer. Throughout my career, I've immersed myself in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration.",
-		"On a typical day, you'll find me working hand-in-hand on API integrations, turning designs into actual, clickable things, and resolving bugs. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles as well.",
+		"I’m a Computer Science graduate with a focus on artificial intelligence and machine learning. My work centers on designing AI solutions that are not only technically strong but also meaningful in solving real-world problems. I’m passionate about exploring the future of AI—from automation to creativity—and aim to contribute to projects that shape how people interact with technology.",
 		"Some of the technologies that I have been trained and worked on include (but are not limited to):"
 	],
 	"AboutMe.conclude": [
